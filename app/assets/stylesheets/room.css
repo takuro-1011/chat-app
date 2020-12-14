@@ -95,8 +95,7 @@ li {
 .chat-room-user__name {
   float: left;
 }
-.chat-room-user__btn {
-  float: right;
+.chat-room-user__btn { 
   display: inline-block;
   cursor: pointer;
 }
@@ -121,8 +120,4 @@ select {
   background-color: #434a54;
   height: 80px;
   width: 100%;
-}
-
-.field_with_errors {
-  display: contents;
 }
